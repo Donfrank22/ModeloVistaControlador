@@ -1,0 +1,45 @@
+C:\Users\HP\Downloads\examen del primer parcial\bin\Debug\net7.0\examen del primer parcial.exe
+C:\Users\HP\Downloads\examen del primer parcial\bin\Debug\net7.0\examen del primer parcial.deps.json
+C:\Users\HP\Downloads\examen del primer parcial\bin\Debug\net7.0\examen del primer parcial.runtimeconfig.json
+C:\Users\HP\Downloads\examen del primer parcial\bin\Debug\net7.0\examen del primer parcial.dll
+C:\Users\HP\Downloads\examen del primer parcial\bin\Debug\net7.0\examen del primer parcial.pdb
+C:\Users\HP\Downloads\examen del primer parcial\obj\Debug\net7.0\examen del primer parcial.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\examen del primer parcial\obj\Debug\net7.0\examen del primer parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\examen del primer parcial\obj\Debug\net7.0\examen del primer parcial.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\examen del primer parcial\obj\Debug\net7.0\examen del primer parcial.AssemblyInfo.cs
+C:\Users\HP\Downloads\examen del primer parcial\obj\Debug\net7.0\examen del primer parcial.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\examen del primer parcial\obj\Debug\net7.0\examen del primer parcial.dll
+C:\Users\HP\Downloads\examen del primer parcial\obj\Debug\net7.0\refint\examen del primer parcial.dll
+C:\Users\HP\Downloads\examen del primer parcial\obj\Debug\net7.0\examen del primer parcial.pdb
+C:\Users\HP\Downloads\examen del primer parcial\obj\Debug\net7.0\examen del primer parcial.genruntimeconfig.cache
+C:\Users\HP\Downloads\examen del primer parcial\obj\Debug\net7.0\ref\examen del primer parcial.dll
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\examen del primer parcial\bin\Debug\net7.0\examen del primer parcial.exe
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\examen del primer parcial\bin\Debug\net7.0\examen del primer parcial.deps.json
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\examen del primer parcial\bin\Debug\net7.0\examen del primer parcial.runtimeconfig.json
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\examen del primer parcial\bin\Debug\net7.0\examen del primer parcial.dll
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\examen del primer parcial\bin\Debug\net7.0\examen del primer parcial.pdb
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\examen del primer parcial\obj\Debug\net7.0\examen del primer parcial.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\examen del primer parcial\obj\Debug\net7.0\examen del primer parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\examen del primer parcial\obj\Debug\net7.0\examen del primer parcial.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\examen del primer parcial\obj\Debug\net7.0\examen del primer parcial.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\examen del primer parcial\obj\Debug\net7.0\examen del primer parcial.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\examen del primer parcial\obj\Debug\net7.0\examen del primer parcial.dll
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\examen del primer parcial\obj\Debug\net7.0\refint\examen del primer parcial.dll
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\examen del primer parcial\obj\Debug\net7.0\examen del primer parcial.pdb
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\examen del primer parcial\obj\Debug\net7.0\examen del primer parcial.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\examen del primer parcial\obj\Debug\net7.0\ref\examen del primer parcial.dll
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\POO\bin\Debug\net7.0\examen del primer parcial.exe
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\POO\bin\Debug\net7.0\examen del primer parcial.deps.json
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\POO\bin\Debug\net7.0\examen del primer parcial.runtimeconfig.json
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\POO\bin\Debug\net7.0\examen del primer parcial.dll
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\POO\bin\Debug\net7.0\examen del primer parcial.pdb
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\POO\obj\Debug\net7.0\examen del primer parcial.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\POO\obj\Debug\net7.0\examen del primer parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\POO\obj\Debug\net7.0\examen del primer parcial.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\POO\obj\Debug\net7.0\examen del primer parcial.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\POO\obj\Debug\net7.0\examen del primer parcial.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\POO\obj\Debug\net7.0\examen del primer parcial.dll
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\POO\obj\Debug\net7.0\refint\examen del primer parcial.dll
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\POO\obj\Debug\net7.0\examen del primer parcial.pdb
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\POO\obj\Debug\net7.0\examen del primer parcial.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive - ULEAM\Escritorio\U\POO\POO\obj\Debug\net7.0\ref\examen del primer parcial.dll

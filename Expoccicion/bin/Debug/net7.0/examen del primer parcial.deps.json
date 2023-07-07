@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "examen del primer parcial/1.0.0": {
+        "runtime": {
+          "examen del primer parcial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "examen del primer parcial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
